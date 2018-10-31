@@ -5,6 +5,8 @@ Two major mistakes in the Skyline problem:
 2) I used incorrect syntax for 2D Arrays, using grid[i,j] instead of grid[i][j].
 
 Both were silly mistakes, part of being rusty I suppose.
+I also made a mistake when evaluating the Big O notation for the Skyline problem. It would be O(N*M), or O(N^2), where N is the
+number of "columns" and M is the number of "rows".
 
 ### October 30th, 2018
 Mistakes during practice: In Java, when writing a regex for a function, you need to escape the backslash in a String.

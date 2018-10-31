@@ -6,8 +6,9 @@
  *
  * Return the sum of all these increases across the whole grid.
  *
- * This ran in 7ms, faster than 99% of java submissions. The runtime should be O(n) where n is the size of the 2D Array. This function
- * runs through the 2D array twice, so O(2n) which simplifies to O(n).
+ * This ran in 7ms, faster than 99% of java submissions. The runtime should be O(n*m) / O(n^2) where n is the length of the array and m
+ * is the length of the arrays inside. This function
+ * runs through the 2D array twice, so O(2nm) which simplifies to O(nm).
  *
  * Author: Colin Swan
  */
