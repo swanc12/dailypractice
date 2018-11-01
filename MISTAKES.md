@@ -1,3 +1,9 @@
+### November 1st, 2018
+Made an off by one error in the lowercase problem by not having the conditional be Greater Than OR EQUAL TO 'A'
+Also rushed and had the conditional for if the letter was uppercase, but not to add anything when lowercase! So my first submission returned "h" instead of "hello".
+This made me rethink the problem though, and I decided to instead initialize the StringBuffer with the given String and only replace letters that were uppercase.
+This could be further optimized by converting the String to a Char array and doing something similar.
+
 ### October 31st, 2018
 Two major mistakes in the Skyline problem: 
 
