@@ -1,3 +1,11 @@
+### November 8th, 2018
+At first I wanted to use to ArrayDeques and convert a result ArrayDeque to an Array. This ended not working out efficiently.
+The ArrayDeque wasn't able to be converted directly to an int[], only and Integer[], so it was more trouble than it was worth.
+It probably would have been a worse runtime anyway given the overhead vs just pushing into an array.
+
+### November 7th, 2018
+Missed a semi-colon first time through, but no other major errors this time around!
+
 ### November 1st, 2018
 Made an off by one error in the lowercase problem by not having the conditional be Greater Than OR EQUAL TO 'A'
 Also rushed and had the conditional for if the letter was uppercase, but not to add anything when lowercase! So my first submission returned "h" instead of "hello".
