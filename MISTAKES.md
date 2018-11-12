@@ -1,3 +1,6 @@
+### November 12th, 2018
+Used the incorrect variable in a line of the HammingDistance problem but found it pretty fast, other than that no issues
+
 ### November 8th, 2018
 At first I wanted to use to ArrayDeques and convert a result ArrayDeque to an Array. This ended not working out efficiently.
 The ArrayDeque wasn't able to be converted directly to an int[], only and Integer[], so it was more trouble than it was worth.
