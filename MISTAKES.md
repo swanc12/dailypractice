@@ -1,3 +1,6 @@
+### November 20th, 2018
+No mistakes to report! First try :)
+
 ### November 12th, 2018
 Used the incorrect variable in a line of the HammingDistance problem but found it pretty fast, other than that no issues
 
